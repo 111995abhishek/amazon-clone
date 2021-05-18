@@ -12,12 +12,11 @@
 
 } */
 .home-row{
+    width:1440px;
     display: grid;
     grid-template-columns: auto auto auto auto;
-    padding: 5px;
     z-index: 1;
-    /* margin-left: 5px;
-    margin-right: 5px; */
+
 }
 .home_image{
     width:100%;
